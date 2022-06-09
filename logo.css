@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('');
+    src: url('fonts/Rohtwo.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.header-logo-top {
+    /*Font Location*/
+    /*Font Styling*/
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.header-logo-bottom {
+    /*Font Location*/
+    font-family: 'CustomFont';
+    /*Font Styling*/
+    font-size: 40px;
+    font-weight: normal;
+    font-style: normal;
+    /*Positioning*/
+    m
